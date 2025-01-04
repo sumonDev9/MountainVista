@@ -1,0 +1,221 @@
+[
+  {
+    "adventure_title": "Everest Base Camp Trek",
+    "image": "https://i.ibb.co/cYFtzj8/pexels-thirdman-5052096.jpg",
+    "id": 1,
+    "category_name": "High Altitude Treks",
+    "short_description": "Embark on the journey to the world’s highest peak, Everest Base Camp.",
+    "adventure_cost": 2500,
+    "booking_availability": "Available",
+    "location": "Nepal, Himalayas",
+    "duration": "14 days",
+    "adventure_level": "Challenging",
+    "included_items": [
+      "Guide",
+      "Porter",
+      "Trekking Permits",
+      "Accommodation",
+      "Meals"
+    ],
+    "eco_friendly_features": [
+      "Eco-friendly lodges",
+      "Waste management practices"
+    ],
+    "max_group_size": 12,
+    "special_instructions": [
+      "Prepare for high altitude",
+      "Carry warm clothing"
+    ]
+  },
+  {
+    "adventure_title": "Annapurna Circuit Trek",
+    "image": "https://i.ibb.co/4pgcYNX/Annapurna-Circuit-Trek.jpg",
+    "id": 2,
+    "category_name": "Classic Treks",
+    "short_description": "A scenic and diverse trek around Annapurna, with views of mountains, valleys, and traditional villages.",
+    "adventure_cost": 1800,
+    "booking_availability": "Limited Availability",
+    "location": "Nepal, Himalayas",
+    "duration": "16 days",
+    "adventure_level": "Moderate",
+    "included_items": [
+      "Experienced guide",
+      "Accommodation",
+      "Meals",
+      "Trekking permits"
+    ],
+    "eco_friendly_features": [
+      "Support for eco-friendly lodges",
+      "Carbon offset programs"
+    ],
+    "max_group_size": 15,
+    "special_instructions": [
+      "Acclimatization days included",
+      "Carry a good sleeping bag"
+    ]
+  },
+  {
+    "adventure_title": "Kilimanjaro Summit Climb",
+    "image": "https://i.ibb.co/f267kbk/Mount-Kilimanjaro-Routes.jpg",
+    "id": 3,
+    "category_name": "Summit Climbs",
+    "short_description": "Reach the summit of Africa’s highest peak, Mount Kilimanjaro, and enjoy breathtaking views.",
+    "adventure_cost": 3200,
+    "booking_availability": "Available",
+    "location": "Tanzania, Africa",
+    "duration": "7 days",
+    "adventure_level": "Challenging",
+    "included_items": [
+      "Guide",
+      "Trekking permits",
+      "Meals",
+      "Acclimatization support"
+    ],
+    "eco_friendly_features": [
+      "Sustainable practices",
+      "Leave no trace principles"
+    ],
+    "max_group_size": 10,
+    "special_instructions": [
+      "Be prepared for altitude sickness",
+      "Pack for cold weather"
+    ]
+  },
+  {
+    "adventure_title": "Mount Fuji Climb",
+    "image": "https://i.ibb.co/bv981vc/climbing-mount-fuji.jpg",
+    "id": 4,
+    "category_name": "Volcanic Treks",
+    "short_description": "Climb the iconic Mount Fuji, Japan’s highest peak, with a rewarding sunrise summit.",
+    "adventure_cost": 1500,
+    "booking_availability": "Available",
+    "location": "Japan, Mount Fuji",
+    "duration": "3 days",
+    "adventure_level": "Moderate",
+    "included_items": [
+      "Guide",
+      "Climbing gear rental",
+      "Meals",
+      "Accommodation"
+    ],
+    "eco_friendly_features": [
+      "Environmental awareness campaigns",
+      "Waste-free zones"
+    ],
+    "max_group_size": 20,
+    "special_instructions": [
+      "Wear proper footwear",
+      "Be prepared for crowded trails"
+    ]
+  },
+  {
+    "adventure_title": "Torres del Paine Circuit",
+    "image": "https://i.ibb.co/HXPf1h0/pexels-marek-piwnicki-3907296-29008783.jpg",
+    "id": 5,
+    "category_name": "Patagonian Treks",
+    "short_description": "Discover Patagonia’s stunning landscapes, including glaciers, lakes, and jagged peaks.",
+    "adventure_cost": 2800,
+    "booking_availability": "Limited Availability",
+    "location": "Chile, Patagonia",
+    "duration": "9 days",
+    "adventure_level": "Challenging",
+    "included_items": [
+      "Guide",
+      "Trekking Permits",
+      "Accommodation",
+      "Meals"
+    ],
+    "eco_friendly_features": [
+      "Leave no trace philosophy",
+      "Conservation efforts"
+    ],
+    "max_group_size": 12,
+    "special_instructions": [
+      "Prepare for cold and windy conditions",
+      "Wear waterproof clothing"
+    ]
+  },
+  {
+    "adventure_title": "Rockies Multi-Sport Adventure",
+    "image": "https://i.ibb.co/SX7TKfm/climbing-rocky-mountain-np-590.jpg",
+    "id": 6,
+    "category_name": "Adventure Packages",
+    "short_description": "A thrilling mix of hiking, rafting, and mountain biking in the Canadian Rockies.",
+    "adventure_cost": 2200,
+    "booking_availability": "Available",
+    "location": "Canada, Rocky Mountains",
+    "duration": "12 days",
+    "adventure_level": "Moderate",
+    "included_items": [
+      "Guide",
+      "Rafting gear",
+      "Mountain bikes",
+      "Accommodation",
+      "Meals"
+    ],
+    "eco_friendly_features": [
+      "Eco-tourism practices",
+      "Recycling and waste reduction"
+    ],
+    "max_group_size": 14,
+    "special_instructions": [
+      "Know basic rafting techniques",
+      "Bring appropriate clothing for varied activities"
+    ]
+  },
+  {
+    "adventure_title": "Mount Elbrus Climb",
+    "image": "https://i.ibb.co/vkq343S/pngtree-elbrus-mount-climbing-white-beauty-photo-image-733080.jpg",
+    "id": 7,
+    "category_name": "Summit Climbs",
+    "short_description": "Conquer Europe’s highest peak, Mount Elbrus, with guided support and training.",
+    "adventure_cost": 3500,
+    "booking_availability": "Available",
+    "location": "Russia, Caucasus Mountains",
+    "duration": "10 days",
+    "adventure_level": "Difficult",
+    "included_items": [
+      "Guide",
+      "Climbing permits",
+      "Meals",
+      "Accommodation",
+      "Training"
+    ],
+    "eco_friendly_features": [
+      "Sustainable tourism initiatives",
+      "Minimization of environmental impact"
+    ],
+    "max_group_size": 8,
+    "special_instructions": [
+      "Prepare for cold weather and high altitudes",
+      "Carry climbing equipment"
+    ]
+  },
+  {
+    "adventure_title": "Banff National Park Trek",
+    "image": "https://i.ibb.co/rmtMhTv/84.jpg",
+    "id": 8,
+    "category_name": "Canadian Wilderness Treks",
+    "short_description": "Explore the pristine wilderness of Banff National Park, including its lakes and alpine terrain.",
+    "adventure_cost": 2000,
+    "booking_availability": "Available",
+    "location": "Canada, Banff",
+    "duration": "7 days",
+    "adventure_level": "Moderate",
+    "included_items": [
+      "Guide",
+      "Trekking Permits",
+      "Accommodation",
+      "Meals"
+    ],
+    "eco_friendly_features": [
+      "Wildlife protection measures",
+      "Conservation partnerships"
+    ],
+    "max_group_size": 16,
+    "special_instructions": [
+      "Wear hiking boots",
+      "Carry insect repellent"
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+
+[
+  {
+    "id": 1,
+    "title": "Experienced Guides",
+    "icon": "FaUserTie",
+    "description": "Certified, skilled guides with years of experience leading unforgettable expeditions worldwide."
+  },
+  {
+    "id": 2,
+    "title": "Eco-Friendly Expeditions",
+    "icon": "FaLeaf",
+    "description": "Sustainable, environmentally-conscious expeditions that prioritize nature conservation and eco-friendly practices."
+  },
+  {
+    "id": 3,
+    "title": "Custom Packages",
+    "icon": "FaCogs",
+    "description": "Tailored expeditions crafted based on individual preferences, interests, and skill levels for you."
+  },
+  {
+    "id": 4,
+    "title": "Adventure Safety",
+    "icon": "FaShieldAlt",
+    "description": "Comprehensive safety measures with professional equipment and expert guides for secure adventures."
+  },
+  {
+    "id": 5,
+    "title": "Cultural Exploration",
+    "icon": "FaGlobeAmericas",
+    "description": "Immerse in diverse cultures, traditions, and local experiences during every journey with us."
+  },
+  {
+    "id": 6,
+    "title": "Group Expeditions",
+    "icon": "FaUsers",
+    "description": "Join exciting group expeditions with like-minded adventurers for shared exploration and camaraderie."
+  }
+]

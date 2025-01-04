@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "user": "John Doe",
+    "comment": "An unforgettable experience! The guides were professional, and the breathtaking landscapes made it perfect.",
+    "image": "https://i.ibb.co/gZb27td/360-F-364211147-1qg-LVxv1-Tcq0-Ohz3-Faw-Ufrt-ONzz8nq3e.jpg"
+  },
+  {
+    "id": 2,
+    "user": "Jane Smith",
+    "comment": "Great adventure, though unpredictable weather. The trip was well-organized and truly exciting for us.",
+    "image": "https://i.ibb.co/QNWNPrF/profile-picture-maker-before.webp"
+  },
+  {
+    "id": 3,
+    "user": "Michael Johnson",
+    "comment": "Amazing time with MountainVista Expeditions! Safety measures were exceptional, ensuring complete security and comfort.",
+    "image": "https://i.ibb.co/xLYcQdH/user.jpg"
+  },
+  {
+    "id": 4,
+    "user": "Emily Davis",
+    "comment": "Fantastic experience! The cultural exploration was outstanding. Minor issue with accommodation, but overall wonderful.",
+    "image": "https://i.ibb.co/qgFX59M/profile.jpg"
+  },
+  {
+    "id": 5,
+    "user": "David Wilson",
+    "comment": "Incredible journey! Everything was perfect, from the guides to the scenery. Will definitely book again soon!",
+    "image": "https://i.ibb.co/Ln9VhY1/images-1.jpg"
+  },
+  {
+    "id": 6,
+    "user": "Sarah Lee",
+    "comment": "Expedition was well-organized with impressive eco-friendly focus. Food options could improve, but still enjoyed it.",
+    "image": "https://i.ibb.co/t8G7F5T/man-taking-selfie.jpg"
+  }
+]
