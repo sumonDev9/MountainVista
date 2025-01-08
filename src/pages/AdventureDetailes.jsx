@@ -7,6 +7,7 @@ import { useEffect } from 'react';
 const AdventureDetailes = () => {
 
     const location = useLocation();
+    
     useEffect(() => {
         if (location.pathname.includes(`/adventer/${id}`)) {
             document.title = `${adventure?.adventure_title} | MountainVista Expeditions`;
